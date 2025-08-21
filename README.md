@@ -1,7 +1,7 @@
 # Unreal Local Server Manager
 
 This is a Python-based application that allows users to easily host and manage local dedicated servers for Unreal Engine projects.
-Quick Video Demonstration [Youtube](www.youtube.com/watch?v=t6YM5usqDtY&feature=youtu.be)
+Quick Video Demonstration [Youtube](https://www.youtube.com/watch?v=t6YM5usqDtY&feature=youtu.be)
 
 ![Example Image](Assets/Example.png)
 
